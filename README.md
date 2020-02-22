@@ -1,4 +1,4 @@
-# News-Feed-App
+# News Feed App
 gives a user regularly-updated news from the Internet connecting to the Internet in Android,
 parsing responses from an API, updating the information in app, and properly displaying that information.
 this app uses Guardian API  which returns information in a JSON format.
