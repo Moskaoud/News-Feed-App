@@ -10,3 +10,5 @@ Doing network operations independent of the Activity lifecycle in background thr
 Use Uri.Builder class to add query parameters to the URL
 list on the user's screen with the information stored in the custom objects
  
+
+  <img src="https://github.com/Moskaoud/News-Feed-App/blob/master/Screenshot_1602887430.png" width="300">
